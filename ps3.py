@@ -37,6 +37,6 @@ if edit=='y':
 #check whether input info is present in the database
 for i in count:
 	if name_i==name[i] && city_i==city[i] && district_i==district[i] && state_i==state[i]:
-		
+		#try to add barcode for each field,i.e, lists
 		
 		
